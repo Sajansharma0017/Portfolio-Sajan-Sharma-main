@@ -21,7 +21,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page:
 ![mockup720](./assests/images/Screenshot%20(196).png)
-![skillsmockup](./assests/images/Screenshot%20(195).png)
+![skillsmockup](./assests/images/Screenshot%20(197).png)
 ![mockup720](./assests/images/Screenshot%20(197).png)
 
 <h2>📬 Contact</h2>
