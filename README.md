@@ -1,6 +1,6 @@
 ## Portfolio-Website
 
-<a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main"><img src="https://sloc.xyz/github/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="LOC"/></a>
+<!--<a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main"><img src="https://sloc.xyz/github/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="LOC"/></a> -->
 <a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main"><img src="https://img.shields.io/github/stars/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="Stars Badge"/></a>
 <a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main/network/members"><img src="https://img.shields.io/github/forks/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="Forks Badge"/></a>
 <a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Sajansharma0017/Portfolio-Sajan-Sharma-main?color=2b9348"></a>
