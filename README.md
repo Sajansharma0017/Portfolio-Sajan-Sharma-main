@@ -1,14 +1,14 @@
 ## Portfolio-Website
 
-<a href="https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee"><img src="https://sloc.xyz/github/SauravMukherjee44/Portfolio-Saurav-Mukherjee" alt="LOC"/></a>
-<a href="https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee"><img src="https://img.shields.io/github/stars/SauravMukherjee44/Portfolio-Saurav-Mukherjee" alt="Stars Badge"/></a>
-<a href="https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/network/members"><img src="https://img.shields.io/github/forks/SauravMukherjee44/Portfolio-Saurav-Mukherjee" alt="Forks Badge"/></a>
-<a href="https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SauravMukherjee44/Portfolio-Saurav-Mukherjee?color=2b9348"></a>
+<a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main"><img src="https://sloc.xyz/github/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="LOC"/></a>
+<a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main"><img src="https://img.shields.io/github/stars/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="Stars Badge"/></a>
+<a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main/network/members"><img src="https://img.shields.io/github/forks/Sajansharma0017/Portfolio-Sajan-Sharma-main" alt="Forks Badge"/></a>
+<a href="https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Sajansharma0017/Portfolio-Sajan-Sharma-main?color=2b9348"></a>
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
-<a href="https://sauravmukherjee.in/" target="_blank">Visit Now🚀</a>
+<a href="https://sajansharma0017.github.io/Portfolio-Sajan-Sharma-main/" target="_blank">Visit Now🚀</a>
 </h2> 
 
 ## 📌 Tech Stack:
@@ -20,7 +20,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720](./assests/images/Screenshot%20(194).png)
+![mockup720](./assests/images/Screenshot%20(196).png)
 ![skillsmockup](./assests/images/Screenshot%20(195).png)
 ![mockup720](./assests/images/Screenshot%20(197).png)
 
@@ -30,8 +30,8 @@ If you want to contact me, you can reach me through below handles.
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.youtube.com/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/sajan-sharma-081790218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:0016sajan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
