@@ -20,7 +20,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720](./assests/images/Screenshot%20(196).png)
+![mockup720](./assests/images/home_page1.png)
 ![skillsmockup](./assests/images/Screenshot%20(197).png)
 ![mockup720](./assests/images/Screenshot%20(198).png)
 
