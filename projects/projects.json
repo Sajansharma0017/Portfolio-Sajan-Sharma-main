@@ -1,6 +1,16 @@
 [ 
     
     
+     {
+        "id": 0,
+        "name": "Driver Drowsing Detection System.",
+        "desc": "The Driver Drowsiness Detection System is an AI-based solution that monitors a driver’s facial and eye movements in real time to identify signs of fatigue. It alerts the driver through visual or audio warnings to prevent accidents and enhance road safety",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
+        "links": {
+            "view": "https://sajansharma0017.github.io/Driver-Drowsing-Detection-System/",
+            "code": "https://github.com/sajansharma0017/Driver-Drowsing-Detection-System"
+        }
+    },
     {
         "id": 1,
         "name": "Travel Booking Site.",
@@ -44,3 +54,4 @@
 
     
 ]
+
