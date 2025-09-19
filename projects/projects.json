@@ -5,7 +5,7 @@
         "id": 1,
         "name": "Driver Drowsing Detection System.",
         "desc": "The Driver Drowsiness Detection System is an AI-based solution that monitors a driver’s facial and eye movements in real time to identify signs of fatigue. It alerts the driver through visual or audio warnings to prevent accidents and enhance road safety",
-        "image": "./assests/images/projects/Drowsing_project.png",
+        "image": "https://res.cloudinary.com/dyh41cqgl/image/upload/v1758293203/Drowsing_project_gki28p.png",
         "links": {
             "view": "https://sajansharma0017.github.io/Driver-Drowsing-Detection-System/",
             "code": "https://github.com/Sajansharma0017/Driver-Drowsing-Detection-System"
@@ -15,7 +15,7 @@
         "id": 2,
         "name": "Travel Booking Site.",
         "desc": "This Website Contains Higlights Of Some Important Places Along With High-Quality Photography And Allows People To Book Thier Dream Destination.",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
+        "image": "https://res.cloudinary.com/dyh41cqgl/image/upload/v1758293203/Travel_home_obd2fn.png",
         "links": {
             "view": "https://sajansharma0017.github.io/Travel-Booking-Site/",
             "code": "https://github.com/Sajansharma0017/Travel-Booking-Site"
@@ -25,7 +25,7 @@
         "id": 3,
         "name": "Portfolio Website",
         "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933140/covidml_pdaxpu.png",
+        "image": "https://res.cloudinary.com/dyh41cqgl/image/upload/v1758293202/portfolio_home_syyz7x.png",
         "links": {
             "view": "https://sajansharma0017.github.io/Portfolio-Sajan-Sharma-main/",
             "code": "https://github.com/Sajansharma0017/Portfolio-Sajan-Sharma-main"
@@ -35,7 +35,7 @@
         "id": 4,
         "name": "Weather App",
         "desc": "This Web Project Provides Weather Information Using Open Weather API. I Have Completed This In HTML CSS JS",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933129/Titanic_nuxdgz.png",
+        "image": "https://res.cloudinary.com/dyh41cqgl/image/upload/v1758293202/demo1_npvrtd.png",
         "links": {
             "view": "https://sajansharma0017.github.io/Weather_App/",
             "code": "https://github.com/Sajansharma0017/Weather_App"
@@ -54,6 +54,7 @@
 
     
 ]
+
 
 
 
