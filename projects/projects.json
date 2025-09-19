@@ -47,13 +47,14 @@
         "desc": "Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup.",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532262/Netflix_ty1ofn.png",
         "links": {
-        "view": "https://netflix-clone-saurav.herokuapp.com/",
-        "code": "https://github.com/SauravMukherjee44/Netflix-Clone-PC-App"
+        "view": "https://netflix-clone-sajan.herokuapp.com/",
+        "code": "https://github.com/Sajansharma0017/Netflix-Clone-PC-App"
         }
     }
 
     
 ]
+
 
 
 
